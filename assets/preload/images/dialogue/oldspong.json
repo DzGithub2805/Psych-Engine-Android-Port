@@ -1,0 +1,24 @@
+{
+	"position": [
+		0,
+		0
+	],
+	"dialogue_pos": "left",
+	"scale": 1.7,
+	"image": "spongDialogOld",
+	"animations": [
+		{
+			"idle_offsets": [
+				-25,
+				101
+			],
+			"loop_offsets": [
+				-8,
+				168
+			],
+			"anim": "talk",
+			"idle_name": "spongstill",
+			"loop_name": "spongtalk"
+		}
+	]
+}
