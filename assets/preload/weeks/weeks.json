@@ -1,0 +1,66 @@
+{
+	"storyName": "Spong. (not fucking spongebob)",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"spong",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Spong",
+			"spong",
+			[
+				255,
+				255,
+				105
+			]
+		],
+		[
+			"Absorb",
+			"spong",
+			[
+				255,
+				255,
+				105
+			]
+		],
+		[
+			"Abrasive",
+			"spong-spongebob",
+			[
+				255,
+				255,
+				105
+			]
+		],
+		[
+			"Bibulus",
+			"spong-spongebob-ut",
+			[
+				255,
+				255,
+				105
+			]
+		],
+		[
+			"Serpent",
+			"spong-serpent",
+			[
+				255,
+				255,
+				105
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

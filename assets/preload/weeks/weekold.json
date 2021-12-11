@@ -1,0 +1,57 @@
+{
+	"storyName": "Spong: Destroyer Of Worlds (Old Charts)",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "weeks",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"spong_old",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Spong-Old",
+			"spong-old",
+			[
+				255,
+				255,
+				75
+			]
+		],
+		[
+			"Absorb-Old",
+			"spong-old",
+			[
+				255,
+				255,
+				75
+			]
+		],
+		[
+			"Abrasive-Old",
+			"spong-spongebob-old",
+			[
+				255,
+				255,
+				75
+			]
+		],
+		[
+			"Pineappled-Old",
+			"pineapple-old",
+			[
+				255,
+				255,
+				75
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Old Spong Week"
+}

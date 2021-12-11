@@ -1,0 +1,30 @@
+{
+	"storyName": "A Viacom Production (Arch Remix)",
+	"hideFreeplay": false,
+	"weekBackground": "school",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weeks",
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Copyright Evasion",
+			"viacom",
+			[
+				36,
+				40,
+				162
+			]
+		]
+	],
+	"weekName": "Viacom"
+}

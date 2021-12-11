@@ -1,0 +1,48 @@
+{
+	"storyName": "Insts by Bmv277 Vocals by Marcy",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weeks",
+	"startUnlocked": false,
+	"songs": [
+		[
+			"Donkey Noise",
+			"spong-sad",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"Hell Nah",
+			"spong",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"IP",
+			"sp",
+			[
+				255,
+				255,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"questionmark",
+		"bf",
+		"gf"
+	],
+	"weekName": "fuck"
+}
