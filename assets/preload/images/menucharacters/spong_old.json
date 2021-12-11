@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "spooky dance idle",
+	"position": [
+		162,
+		120
+	],
+	"scale": 0.65,
+	"image": "Menu_Old_Spong"
+}
