@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "oldspong",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "who the fuck are you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bepeeepeoepeoe"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oldspong",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "that dosent answer my question"
+		},
+		{
+			"speed": 0.02,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oldspong",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		}
+	]
+}
