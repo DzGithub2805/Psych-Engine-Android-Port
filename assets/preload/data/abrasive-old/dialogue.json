@@ -1,0 +1,109 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "oldspongebob",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Hey!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "oldspongebob",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Give me that back, the Krusty Krab talent show is in 20 minutes!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oldspong",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "oldspongebob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Who are you even supposed to be?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oldspong",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "spong"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "oldspongebob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Don't you mean Spongebob?"
+		},
+		{
+			"speed": 0.11,
+			"portrait": "oldspong",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no."
+		},
+		{
+			"speed": 0.1,
+			"portrait": "oldspong",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "spong."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oldspongebob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well uh...anyway-"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "oldspongebob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The name's Spongebob, you stole that mic from me!"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "oldspongebob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Give it here."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oldspong",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no lol"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "oldspongebob",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "C'mon you yellow impostor, give it!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "oldspong",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "haha amogWAIT GET YOUR HANDS OFF ME"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "this shit funny lol"
+		}
+	]
+}
