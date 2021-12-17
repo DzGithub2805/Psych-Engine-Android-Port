@@ -1,22 +1,66 @@
 {
-	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+	"storyName": "Spong. (not fucking spongebob)",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
+	"startUnlocked": true,
 	"weekCharacters": [
-		"dad",
+		"spong",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
-	"weekBefore": "tutorial",
-	"weekName": "Week 1",
-	"startUnlocked": true,
-
+	"songs": [
+		[
+			"Spong",
+			"spong",
+			[
+				255,
+				255,
+				105
+			]
+		],
+		[
+			"Absorb",
+			"spong",
+			[
+				255,
+				255,
+				105
+			]
+		],
+		[
+			"Abrasive",
+			"spong-spongebob",
+			[
+				255,
+				255,
+				105
+			]
+		],
+		[
+			"Bibulus",
+			"spong-spongebob-ut",
+			[
+				255,
+				255,
+				105
+			]
+		],
+		[
+			"Serpent",
+			"spong-serpent",
+			[
+				255,
+				255,
+				105
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Custom Week"
 }
